@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84138" started-at="2017-03-10T14:15:43Z" finished-at="2017-03-10T14:17:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84138" started-at="2017-03-10T14:15:43Z" finished-at="2017-03-10T14:17:07Z">
+      <class name="TestCases.TC_002">
+        <test-method status="PASS" signature="start()[pri:0, instance:TestCases.TC_002@49e1d547]" name="start" is-config="true" duration-ms="1235" started-at="2017-03-10T19:45:43Z" finished-at="2017-03-10T19:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="TC_002()[pri:0, instance:TestCases.TC_002@49e1d547]" name="TC_002" duration-ms="81782" started-at="2017-03-10T19:45:45Z" finished-at="2017-03-10T19:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+      </class> <!-- TestCases.TC_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
